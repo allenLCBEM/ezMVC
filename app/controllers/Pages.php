@@ -7,7 +7,8 @@
 
         public function index(){
             $data = [
-                'title' => 'welcome'
+                'title' => 'Welcome',
+                'description' => 'ezMVC PHP framework'
             ];
 
             
